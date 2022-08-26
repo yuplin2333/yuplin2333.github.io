@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yuping Lin"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Major in Electrical & Computer Engineering, University of Massachusetts, Amherst"
   location         : "Amherst, Massachusetts"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 
-  email            :
+  googlescholar    : #
+  email            : yuplin@umass.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
