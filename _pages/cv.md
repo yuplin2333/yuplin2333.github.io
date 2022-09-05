@@ -52,7 +52,7 @@ Research
 # Student Work
 
 |      Time | Duty                                                         |
-| --------: | ------------------------------------------------------------ |
+| --------: | :----------------------------------------------------------- |
 | 2019-2020 | Music Arranger, Qingting Music Studio, Art Troupe of UESTC   |
 | 2017-2018 | Propaganda Department Officer, Student Union, School of Resources and Environment, UESTC |
 | 2014-2016 | Vice president of Philharmonic Student Club, Shandong Experimental High School |
