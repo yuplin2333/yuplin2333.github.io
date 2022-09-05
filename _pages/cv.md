@@ -11,49 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **M.S.**  (2023, expected)
+    * Electronic and Computer Engineering
+    * University of Massachusetts, Amherst (UMass Amherst)
+    * **GPA**: 4.0/4.0
+    * **Relevant Coursework**: Machine Learning, System Software Design, Computer Networks
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **B.S.** (2021)
+    * Information Security
+    * University of Electronic and Science Technology of China (UESTC)
+    * **GPA**: 3.79/4.0
+    * **Relevant Coursework**: Computer Architecture, Computer Operating System, Information Theory and Coding Theory
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 02/2022-Present: Composability pruning in Transformer model
+  * Machine Learning Supporting System
+  * **Supervisor**: Prof. Tongping Liu and Prof. Hui Guan, UMass Amherst
+* 12/2020-05/2021: Undergraduate Graduation Design
+  * Design and Implementation of a Similar Weibo Recommendation System Based on Android
+  * **Supervisor**: Prof. Guowu Yang, UESTC
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 08/2020-10/2020: Application of Machine Learning in Computer Networks
+  * Implementation of a distributed Denial-of-Service (DoS) attack detection system
+  * **Supervisor**: Prof. Nick Feamster, University of Chicago
+# Honors and Awards
+
+|    Time | Honors and Awards                                            |
+| ------: | :----------------------------------------------------------- |
+| 12/2019 | Outstanding Student Scholarship in the academic year of 2018-2019, UESTC |
+| 12/2018 | Outstanding Student Scholarship in the academic year of 2017-2018, UESTC |
+| 07/2018 | Certificate of completion of *Fundamental Marketing*, *Understanding Green Business* courses, University of California, Berkeley, United States |
+| 04/2018 | Third prize in the 16th UESTC ACM Programming Competition    |
+| 01/2018 | Certificate of completion of Sophia Winter Session in Global Environmental Studies 2018, Sophia University, Tokyo, Japan |
+| 12/2016 | Second prize in CCF National Olympiad in Informatics 2016    |
+| 06/2016 | Second prize in Computer Production Activities for Primary and Secondary schools in Shandong Province 2016 |
+| 12/2015 | Second prize in CCF National Olympiad in Informatics 2015    |
+
+# Student Work
+
+|      Time | Duty                                                         |
+| --------: | ------------------------------------------------------------ |
+| 2019-2020 | Music Arranger, Qingting Music Studio, Art Troupe of UESTC   |
+| 2017-2018 | Propaganda Department Officer, Student Union, School of Resources and Environment, UESTC |
+| 2014-2016 | Vice president of Philharmonic Student Club, Shandong Experimental High School |
+
+# Language
+
+- TOEFL: 101
+- IELTS: 7
+- GRE: V147/Q170/AW3.5
+
+# Skills
+
+PyTorch, Python, C++, Java, HTML, CSS, Javascript, Linux
+
+
