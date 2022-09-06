@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 * **M.S.**  (2023, expected)
     * Electronic and Computer Engineering
     * University of Massachusetts, Amherst (UMass Amherst)
@@ -24,8 +23,8 @@ Education
     * **Relevant Coursework**: Computer Architecture, Computer Operating System, Information Theory and Coding Theory
 
 
-Research
-======
+# Research
+
 * 02/2022-Present: Composability pruning in Transformer model
   * Machine Learning Supporting System
   * **Supervisor**: Prof. Tongping Liu and Prof. Hui Guan, UMass Amherst
@@ -36,6 +35,7 @@ Research
 * 08/2020-10/2020: Application of Machine Learning in Computer Networks
   * Implementation of a distributed Denial-of-Service (DoS) attack detection system
   * **Supervisor**: Prof. Nick Feamster, University of Chicago
+
 # Honors and Awards
 
 |    Time | Honors and Awards                                            |
