@@ -9,18 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+
+> Last Update: 2022-09-10
+
+
 # Education
 * **M.S.**  (2023, expected)
     * Electronic and Computer Engineering
     * University of Massachusetts, Amherst (UMass Amherst)
     * **GPA**: 4.0/4.0
-    * **Relevant Coursework**: Machine Learning, System Software Design, Computer Networks
+    * **Relevant Coursework**:
+      * Machine Learning
+      * Advanced System Software Design
+      * Computer Networks
 
 * **B.S.** (2021)
     * Information Security
     * University of Electronic and Science Technology of China (UESTC)
     * **GPA**: 3.79/4.0
-    * **Relevant Coursework**: Computer Architecture, Computer Operating System, Information Theory and Coding Theory
+    * **Relevant Coursework**: 
+      * Computer Architecture
+      * Computer Operating System
+      * Information Theory and Coding Theory
+      * Cryptography
+      * Signals and Systems
+      * Fundamentals of Compiler
+      * Digital Image Processing
 
 
 # Research
