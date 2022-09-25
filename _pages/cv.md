@@ -73,9 +73,9 @@ redirect_from:
 
 # Language
 
-- TOEFL: 101
+- TOEFL: 102 (R29 L27 S22 W24)
 - IELTS: 7
-- GRE: V147/Q170/AW3.5
+- GRE: V147 Q170 AW3.5
 
 # Skills
 
