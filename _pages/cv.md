@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-> Last Updated: 09/25/2022
+> Last Updated: 11/15/2022
 
 
 # Education
-* **M.S.**  (2023, expected)
+* **M.Sc.**  (2023, expected)
     * Electronic and Computer Engineering
     * University of Massachusetts, Amherst (UMass Amherst)
     * **GPA**: 4.0/4.0
@@ -23,7 +23,7 @@ redirect_from:
       * Advanced System Software Design
       * Computer Networks
 
-* **B.S.** (2021)
+* **B.Eng** (2021)
     * Information Security
     * University of Electronic and Science Technology of China (UESTC)
     * **GPA**: 3.79/4.0
@@ -79,6 +79,6 @@ redirect_from:
 
 # Skills
 
-PyTorch, Python, C++, Java, HTML, CSS, Javascript, Linux
+Machine Learning, PyTorch, Python, C++, Java, HTML, CSS, Javascript, Linux
 
 
