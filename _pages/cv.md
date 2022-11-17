@@ -42,10 +42,10 @@ redirect_from:
 # Research
 
 * 02/2022-Present: Composability pruning in Transformer model
-  * Machine Learning Supporting System
+  * Aiming to reduce the time of deciding which pruning configuration to apply to a Transformer
   * **Supervisor**: Prof. Tongping Liu and Prof. Hui Guan, UMass Amherst
 * 12/2020-05/2021: Undergraduate Graduation Design
-  * Design and Implementation of a Similar Weibo Recommendation System Based on Android
+  * Design and Implementation of a similar Weibo recommendation system based on Android
   * **Supervisor**: Prof. Guowu Yang, UESTC
   
 * 08/2020-10/2020: Application of Machine Learning in Computer Networks
