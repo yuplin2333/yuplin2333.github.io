@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-> Last Updated: 11/15/2022
+> Last Updated: 11/16/2022
 
 
 # Education
@@ -20,6 +20,8 @@ redirect_from:
     * **GPA**: 4.0/4.0
     * **Relevant Coursework**:
       * Machine Learning
+      * Image Processing
+      * Computer Architecture
       * Advanced System Software Design
       * Computer Networks
 
