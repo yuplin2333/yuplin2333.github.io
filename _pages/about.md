@@ -12,6 +12,6 @@ I am a master graduate student. I major in [Electrical & Computer Engineering](h
 
 My research field includes Machine Learning Supporting Systems, aiming to improve the speed and reliability of Machine Learning. My current research project focuses on finding the composability in Transformer neural networks pruning in the aspects of algorithm and system to speed up Transformer pruning, and developing a pruning framework.
 
-Besides that, I also have a wide range of interest in multiple fields including Information Security, Operating System, and Computer Graphics. What is the most important, I am a passionate and efficient learner of all computer related subjects.
+Besides that, I also have a wide range of interest in multiple fields including Natural Language Processing, Computer Vision, Information Security, Operating and Programming System, and Computer Graphics. Most importantly, I am a passionate and efficient learner of all computer related subjects.
 
 See [**"CV"** Tab](https://yuplin2333.github.io/cv/) above for my detailed personal information, or contact me at yuplin [at] umass [dot] edu.
