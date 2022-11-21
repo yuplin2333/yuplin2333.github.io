@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-> Last Updated: 11/16/2022
+> Last Updated: 11/21/2022
 
 
 # Education
@@ -34,6 +34,7 @@ redirect_from:
       * Computer Operating System
       * Information Theory and Coding Theory
       * Cryptography
+      * Assembly Language Programming
       * Signals and Systems
       * Fundamentals of Compiler
       * Digital Image Processing
