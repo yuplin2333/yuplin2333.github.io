@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-> Last Updated: 11/21/2022
+> Last Updated: 12/05/2022
 
 
 # Education
@@ -74,7 +74,7 @@ redirect_from:
 | 2017-2018 | Propaganda Department Officer, Student Union, School of Resources and Environment, UESTC |
 | 2014-2016 | Vice president of Philharmonic Student Club, Shandong Experimental High School |
 
-# Language
+# Language and Tests
 
 - TOEFL: 102 (R29 L27 S22 W24)
 - IELTS: 7
