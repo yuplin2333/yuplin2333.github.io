@@ -21,25 +21,10 @@ redirect_from:
   * University of Massachusetts, Amherst (UMass Amherst)
   * **Supervisor**: Professor [Tongping Liu](https://people.umass.edu/tongping/index.html)
   * **GPA**: 3.95/4.0
-  * **Relevant Coursework**:
-    * Machine Learning
-    * Image Processing
-    * Computer Architecture
-    * Advanced System Software Design
-    * Computer Networks
 
 * **B.Eng.** in Information Security (2017-2021)
   * University of Electronic and Science Technology of China (UESTC)
   * **GPA**: 3.79/4.0
-  * **Relevant Coursework**:
-    * Computer Architecture
-    * Computer Operating System
-    * Information Theory and Coding Theory
-    * Cryptography
-    * Assembly Language Programming
-    * Signals and Systems
-    * Fundamentals of Compiler
-    * Digital Image Processing
 
 ## Research
 
