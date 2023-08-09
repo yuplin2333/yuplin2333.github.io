@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-> Last Updated: 12/05/2022
+> Last Updated: 8/8/2023
 
 ## Education
 
