@@ -44,7 +44,7 @@ redirect_from:
 ## Research
 
 * 06/2022-08/2023: A Composability-Based Transformer Pruning Framework
-  * Introduces an innovative framework for model pruning across multiple pruning configurations that not only maintains model performance but also significantly reduces model size and inference time
+  * An innovative framework for model pruning across multiple pruning configurations that not only maintains model performance but also significantly reduces model size and inference time
   * **Supervisor**: Prof. Tongping Liu and Prof. Hui Guan, UMass Amherst
 
 * 12/2020-05/2021: Undergraduate Graduation Design
