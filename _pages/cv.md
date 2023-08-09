@@ -9,51 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-
 > Last Updated: 12/05/2022
 
+## Education
 
-# Education
-* **M.S.**  (2023, expected)
-    * Electronic and Computer Engineering
-    * University of Massachusetts, Amherst (UMass Amherst)
-    * **GPA**: 4.0/4.0
-    * **Relevant Coursework**:
-      * Machine Learning
-      * Image Processing
-      * Computer Architecture
-      * Advanced System Software Design
-      * Computer Networks
+* **Ph.D.** in Computer Science (2023-)
+  * Michigan State University (MSU)
+  * **Supervisor**: Professor [Jiliang Tang](https://www.cse.msu.edu/~tangjili/)
 
-* **B.Eng.** (2021)
-    * Information Security
-    * University of Electronic and Science Technology of China (UESTC)
-    * **GPA**: 3.79/4.0
-    * **Relevant Coursework**: 
-      * Computer Architecture
-      * Computer Operating System
-      * Information Theory and Coding Theory
-      * Cryptography
-      * Assembly Language Programming
-      * Signals and Systems
-      * Fundamentals of Compiler
-      * Digital Image Processing
+* **M.S.** in Electronic and Computer Engineering (2022-2023)
+  * University of Massachusetts, Amherst (UMass Amherst)
+  * **Supervisor**: Professor [Tongping Liu](https://people.umass.edu/tongping/index.html)
+  * **GPA**: 3.95/4.0
+  * **Relevant Coursework**:
+    * Machine Learning
+    * Image Processing
+    * Computer Architecture
+    * Advanced System Software Design
+    * Computer Networks
 
+* **B.Eng.** in Information Security (2017-2021)
+  * University of Electronic and Science Technology of China (UESTC)
+  * **GPA**: 3.79/4.0
+  * **Relevant Coursework**:
+    * Computer Architecture
+    * Computer Operating System
+    * Information Theory and Coding Theory
+    * Cryptography
+    * Assembly Language Programming
+    * Signals and Systems
+    * Fundamentals of Compiler
+    * Digital Image Processing
 
-# Research
+## Research
 
-* 02/2022-Present: Composability pruning in Transformer model
-  * Aiming to reduce the time of deciding which pruning configuration to apply to a Transformer
+* 06/2022-08/2023: A Composability-Based Transformer Pruning Framework
+  * Introduces an innovative framework for model pruning across multiple pruning configurations that not only maintains model performance but also significantly reduces model size and inference time
   * **Supervisor**: Prof. Tongping Liu and Prof. Hui Guan, UMass Amherst
+
 * 12/2020-05/2021: Undergraduate Graduation Design
   * Design and Implementation of a similar Weibo recommendation system based on Android
   * **Supervisor**: Prof. Guowu Yang, UESTC
-  
+
 * 08/2020-10/2020: Application of Machine Learning in Computer Networks
   * Implementation of a distributed Denial-of-Service (DoS) attack detection system
   * **Supervisor**: Prof. Nick Feamster, University of Chicago
 
-# Honors and Awards
+## Honors and Awards
 
 |    Time | Honors and Awards                                            |
 | ------: | :----------------------------------------------------------- |
@@ -66,7 +68,7 @@ redirect_from:
 | 06/2016 | Second prize in Computer Production Activities for Primary and Secondary schools in Shandong Province 2016 |
 | 12/2015 | Second prize in CCF National Olympiad in Informatics 2015    |
 
-# Student Work
+## Student Work
 
 |      Time | Duty                                                         |
 | --------: | :----------------------------------------------------------- |
@@ -74,14 +76,6 @@ redirect_from:
 | 2017-2018 | Propaganda Department Officer, Student Union, School of Resources and Environment, UESTC |
 | 2014-2016 | Vice president of Philharmonic Student Club, Shandong Experimental High School |
 
-# Language and Tests
+## Skills
 
-- TOEFL: 102 (R29 L27 S22 W24)
-- IELTS: 7
-- GRE: V147 Q170 AW3.5
-
-# Skills
-
-Machine Learning, PyTorch, Python, C++, Java, HTML, CSS, Javascript, Linux
-
-
+PyTorch, Python, C++, GNU/Linux

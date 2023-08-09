@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuping Lin - Homepage"
 title_separator          : "-"
 name                     : &name "Yuping Lin"
-description              : &description "Major in Electrical & Computer Engineering, University of Massachusetts, Amherst"
+description              : &description "Yuping Lin's Academic Homepage"
 url                      : https://yuplin2333.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuplin2333/yuplin2333.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuping Lin"
   avatar           : "profile.jpg"
-  bio              : "Electrical & Computer Engineering, University of Massachusetts Amherst"
-  location         : "Amherst, Massachusetts"
+  bio              : "First-year CS PhD student in MSU"
+  location         : "East Lansing, Michigan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #
-  email            : yuplin@umass.edu
+  email            : linyupin@msu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lcx64579"
+  github           : # "lcx64579"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "yupinglin2345"
   vine             :
   weibo            :
   xing             :
