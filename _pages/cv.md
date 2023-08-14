@@ -15,11 +15,11 @@ redirect_from:
 
 * **Ph.D.** in Computer Science (2023-)
   * Michigan State University (MSU)
-  * **Supervisor**: Professor [Jiliang Tang](https://www.cse.msu.edu/~tangjili/)
+  * **Advisor**: [Professor Jiliang Tang](https://www.cse.msu.edu/~tangjili/)
 
 * **M.S.** in Electronic and Computer Engineering (2022-2023)
   * University of Massachusetts, Amherst (UMass Amherst)
-  * **Supervisor**: Professor [Tongping Liu](https://people.umass.edu/tongping/index.html)
+  * **Advisor**: [Professor Tongping Liu](https://people.umass.edu/tongping/index.html)
   * **GPA**: 3.95/4.0
 
 * **B.Eng.** in Information Security (2017-2021)
@@ -30,15 +30,15 @@ redirect_from:
 
 * 06/2022-08/2023: A Composability-Based Transformer Pruning Framework
   * An innovative framework for model pruning across multiple pruning configurations that not only maintains model performance but also significantly reduces model size and inference time
-  * **Supervisor**: Prof. Tongping Liu and Prof. Hui Guan, UMass Amherst
+  * **Advisor**: [Prof. Tongping Liu](https://people.umass.edu/tongping/index.html) and [Prof. Hui Guan](https://guanh01.github.io/), UMass Amherst
 
 * 12/2020-05/2021: Undergraduate Graduation Design
   * Design and Implementation of a similar Weibo recommendation system based on Android
-  * **Supervisor**: Prof. Guowu Yang, UESTC
+  * **Advisor**: Prof. Guowu Yang, UESTC
 
 * 08/2020-10/2020: Application of Machine Learning in Computer Networks
   * Implementation of a distributed Denial-of-Service (DoS) attack detection system
-  * **Supervisor**: Prof. Nick Feamster, University of Chicago
+  * **Advisor**: Prof. Nick Feamster, University of Chicago
 
 ## Honors and Awards
 
