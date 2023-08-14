@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,11 +83,11 @@ author:
   name             : "Yuping Lin"
   avatar           : "profile.jpg"
   bio              : "First-year CS PhD student in MSU"
-  location         : "East Lansing, Michigan"
+  location         : "East Lansing, Michigan 48823"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #
-  email            : linyupin@msu.edu
+  email            : "linyupin@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "lcx64579"
+  github           : "yuplin2333"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yuping-lin-0a7452221/"
   orcid            : "https://orcid.org/0009-0009-0653-9908"
   pinterest        :
   soundcloud       :
