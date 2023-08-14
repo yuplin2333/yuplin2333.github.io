@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm excited to begin my journey as a Computer Science PhD student at [Michigan State University](https://www.cse.msu.edu/), starting in September 2023, under the guidance of [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/).
+I'm excited to begin my journey as a Computer Science PhD student at [the DSE Lab](https://dse.cse.msu.edu/) of Michigan State University, starting in September 2023, under the guidance of [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/).
 
 My research field includes Trustworthy AI, seeking to develop artificial intelligence systems that are not only safe and reliable, but also transparent, explainable, accountable, and free from biases. While I'm deepening my expertise in this domain, I also maintain a broad interest in various AI-related fields, including NLP and model pruning.
 
