@@ -20,11 +20,11 @@ redirect_from:
 * **M.S.** in Electronic and Computer Engineering (2022-2023)
   * University of Massachusetts, Amherst (UMass Amherst)
   * **Advisor**: [Professor Tongping Liu](https://people.umass.edu/tongping/index.html)
-  * **GPA**: 3.95/4.0
+  <!-- * **GPA**: 3.95/4.0 -->
 
 * **B.Eng.** in Information Security (2017-2021)
   * University of Electronic and Science Technology of China (UESTC)
-  * **GPA**: 3.79/4.0
+  <!-- * **GPA**: 3.79/4.0 -->
 
 ## Research
 
