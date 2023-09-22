@@ -28,17 +28,17 @@ redirect_from:
 
 ## Research
 
-* 06/2022-08/2023: A Composability-Based Transformer Pruning Framework
+* 06/2022-08/2023 **Master's thesis: A Composability-Based Transformer Pruning Framework**
   * An innovative framework for model pruning across multiple pruning configurations that not only maintains model performance but also significantly reduces model size and inference time
   * **Advisor**: [Prof. Tongping Liu](https://people.umass.edu/tongping/index.html) and [Prof. Hui Guan](https://guanh01.github.io/), UMass Amherst
 
-* 12/2020-05/2021: Undergraduate Graduation Design
+<!-- * 12/2020-05/2021: Undergraduate Graduation Design
   * Design and Implementation of a similar Weibo recommendation system based on Android
   * **Advisor**: Prof. Guowu Yang, UESTC
 
 * 08/2020-10/2020: Application of Machine Learning in Computer Networks
   * Implementation of a distributed Denial-of-Service (DoS) attack detection system
-  * **Advisor**: Prof. Nick Feamster, University of Chicago
+  * **Advisor**: Prof. Nick Feamster, University of Chicago -->
 
 ## Honors and Awards
 
@@ -46,20 +46,20 @@ redirect_from:
 | ------: | :----------------------------------------------------------- |
 | 12/2019 | Outstanding Student Scholarship in the academic year of 2018-2019, UESTC |
 | 12/2018 | Outstanding Student Scholarship in the academic year of 2017-2018, UESTC |
-| 07/2018 | Certificate of completion of *Fundamental Marketing*, *Understanding Green Business* courses, University of California, Berkeley, United States |
+<!-- | 07/2018 | Certificate of completion of *Fundamental Marketing*, *Understanding Green Business* courses, University of California, Berkeley, United States |
 | 04/2018 | Third prize in the 16th UESTC ACM Programming Competition    |
 | 01/2018 | Certificate of completion of Sophia Winter Session in Global Environmental Studies 2018, Sophia University, Tokyo, Japan |
 | 12/2016 | Second prize in CCF National Olympiad in Informatics 2016    |
 | 06/2016 | Second prize in Computer Production Activities for Primary and Secondary schools in Shandong Province 2016 |
-| 12/2015 | Second prize in CCF National Olympiad in Informatics 2015    |
+| 12/2015 | Second prize in CCF National Olympiad in Informatics 2015    | -->
 
-## Student Work
+<!-- ## Student Work
 
 |      Time | Duty                                                         |
 | --------: | :----------------------------------------------------------- |
 | 2019-2020 | Music Arranger, Qingting Music Studio, Art Troupe of UESTC   |
 | 2017-2018 | Propaganda Department Officer, Student Union, School of Resources and Environment, UESTC |
-| 2014-2016 | Vice president of Philharmonic Student Club, Shandong Experimental High School |
+| 2014-2016 | Vice president of Philharmonic Student Club, Shandong Experimental High School | -->
 
 ## Skills
 
