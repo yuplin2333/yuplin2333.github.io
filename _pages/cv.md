@@ -46,6 +46,7 @@ redirect_from:
 | ------: | :----------------------------------------------------------- |
 | 12/2019 | Outstanding Student Scholarship in the academic year of 2018-2019, UESTC |
 | 12/2018 | Outstanding Student Scholarship in the academic year of 2017-2018, UESTC |
+
 <!-- | 07/2018 | Certificate of completion of *Fundamental Marketing*, *Understanding Green Business* courses, University of California, Berkeley, United States |
 | 04/2018 | Third prize in the 16th UESTC ACM Programming Competition    |
 | 01/2018 | Certificate of completion of Sophia Winter Session in Global Environmental Studies 2018, Sophia University, Tokyo, Japan |
