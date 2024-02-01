@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-> Last Updated: 8/8/2023
+> Last Updated: 2/1/2024
+
+## Research Area
+
+Trustworthy AI, Natural Language Processing
 
 ## Education
 
@@ -26,11 +30,12 @@ redirect_from:
   * University of Electronic and Science Technology of China (UESTC)
   <!-- * **GPA**: 3.79/4.0 -->
 
-## Research
+## Publications
 
-* 06/2022-08/2023 **Master's thesis: A Composability-Based Transformer Pruning Framework**
-  * An innovative framework for model pruning across multiple pruning configurations that not only maintains model performance but also significantly reduces model size and inference time
-  * **Advisor**: [Prof. Tongping Liu](https://people.umass.edu/tongping/index.html) and [Prof. Hui Guan](https://guanh01.github.io/), UMass Amherst
+[1] Cui, Y., Ren, J., **Lin, Y**., Xu, H., He, P., Xing, Y., Fan, W., Liu, H., & Tang, J. (2023). FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models (arXiv:2310.02401). arXiv. https://doi.org/10.48550/arXiv.2310.02401
+
+[2] **Lin, Y.** (2023). A Composability-Based Transformer Pruning Framework. Masters Theses. https://doi.org/10.7275/35921636.0
+
 
 <!-- * 12/2020-05/2021: Undergraduate Graduation Design
   * Design and Implementation of a similar Weibo recommendation system based on Android
@@ -61,7 +66,3 @@ redirect_from:
 | 2019-2020 | Music Arranger, Qingting Music Studio, Art Troupe of UESTC   |
 | 2017-2018 | Propaganda Department Officer, Student Union, School of Resources and Environment, UESTC |
 | 2014-2016 | Vice president of Philharmonic Student Club, Shandong Experimental High School | -->
-
-## Skills
-
-PyTorch, Python, C++, GNU/Linux
