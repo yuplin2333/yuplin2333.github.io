@@ -37,13 +37,17 @@ Trustworthy AI, Natural Language Processing
 
 ## Publications
 
-[1] Cui, Y., Ren, J., **Lin, Y**., Xu, H., He, P., Xing, Y., Fan, W., Liu, H., & Tang, J. (2023). FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models (arXiv:2310.02401). arXiv. https://doi.org/10.48550/arXiv.2310.02401
+[1] **Lin, Y.**, He, P., Xu, H., Xing, Y., Yamada, M., Liu, H., & Tang, J. (2024). Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis (No. arXiv:2406.10794). arXiv. https://doi.org/10.48550/arXiv.2406.10794
 
-[2] **Lin, Y.** (2023). A Composability-Based Transformer Pruning Framework. Masters Theses. https://doi.org/10.7275/35921636.0
+[2] Cui, Y., Ren, J., **Lin, Y**., Xu, H., He, P., Xing, Y., Fan, W., Liu, H., & Tang, J. (2023). FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models (arXiv:2310.02401). arXiv. https://doi.org/10.48550/arXiv.2310.02401
 
-## Honors and Awards
+## Teaching
+
+* Fall 2024, **Teaching Assistant**, CSE 482 Big Data Analysis
+
+<!-- ## Honors and Awards
 
 |    Time | Honors and Awards                                            |
 | ------: | :----------------------------------------------------------- |
 | 12/2019 | Outstanding Student Scholarship in the academic year of 2018-2019, UESTC |
-| 12/2018 | Outstanding Student Scholarship in the academic year of 2017-2018, UESTC |
+| 12/2018 | Outstanding Student Scholarship in the academic year of 2017-2018, UESTC | -->
