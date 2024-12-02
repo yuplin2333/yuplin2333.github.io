@@ -35,9 +35,13 @@ Trustworthy AI, Natural Language Processing
   * University of Electronic and Science Technology of China (UESTC)
   <!-- * **GPA**: 3.79/4.0 -->
 
-## Publications
+## Selected Publications
 
-[1] **Lin, Y.**, He, P., Xu, H., Xing, Y., Yamada, M., Liu, H., & Tang, J. (2024). Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis (No. arXiv:2406.10794). arXiv. https://doi.org/10.48550/arXiv.2406.10794
+[1] **[EMNLP 2024 Main]** **Lin, Y.**, He, P., Xu, H., Xing, Y., Yamada, M., Liu, H., & Tang, J. (2024). Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis (No. arXiv:2406.10794). arXiv. https://doi.org/10.48550/arXiv.2406.10794
+
+## All Publications
+
+[1] Zeng, S., Zhang, J., Li, B., **Lin, Y.**, Zheng, T., Everaert, D., Lu, H., Liu, H., Liu, H., Xing, Y., Cheng, M. X., & Tang, J. (2024). Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective (No. arXiv:2411.14572). arXiv. https://doi.org/10.48550/arXiv.2411.14572
 
 [2] Cui, Y., Ren, J., **Lin, Y**., Xu, H., He, P., Xing, Y., Fan, W., Liu, H., & Tang, J. (2023). FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models (arXiv:2310.02401). arXiv. https://doi.org/10.48550/arXiv.2310.02401
 
