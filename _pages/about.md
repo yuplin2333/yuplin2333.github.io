@@ -39,7 +39,7 @@ Trustworthy AI, Natural Language Processing
 
 ### Conferences
 
-* \[EMNLP 2024 Main\] **Lin, Y.**, He, P., Xu, H., Xing, Y., Yamada, M., Liu, H., & Tang, J. (2024). Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis. arXiv preprint arXiv:2406.10794. ([arxiv](https://arxiv.org/abs/2406.10794)) ([pdf](https://arxiv.org/pdf/2406.10794))
+* \[EMNLP 2024 Main\] **Lin, Y.**, He, P., Xu, H., Xing, Y., Yamada, M., Liu, H., & Tang, J. (2024). Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis. arXiv preprint arXiv:2406.10794. ([proceeding](https://aclanthology.org/2024.emnlp-main.401/)) ([arxiv](https://arxiv.org/abs/2406.10794)) ([pdf](https://aclanthology.org/2024.emnlp-main.401.pdf))
 
 ### Preprints
 
