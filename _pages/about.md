@@ -39,13 +39,15 @@ Trustworthy AI, Natural Language Processing
 
 ### Conferences
 
-- \[EMNLP 2024 Main\] **Lin, Y.**, He, P., Xu, H., Xing, Y., Yamada, M., Liu, H., & Tang, J. (2024). Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis. arXiv preprint arXiv:2406.10794. ([arxiv](https://arxiv.org/abs/2406.10794)) ([pdf](https://arxiv.org/pdf/2406.10794))
+* \[EMNLP 2024 Main\] **Lin, Y.**, He, P., Xu, H., Xing, Y., Yamada, M., Liu, H., & Tang, J. (2024). Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis. arXiv preprint arXiv:2406.10794. ([arxiv](https://arxiv.org/abs/2406.10794)) ([pdf](https://arxiv.org/pdf/2406.10794))
 
 ### Preprints
 
-- Zeng, S., Zhang, J., Li, B., **Lin, Y.**, Zheng, T., Everaert, D., ... & Tang, J. (2024). Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective. arXiv preprint arXiv:2411.14572. ([arxiv](https://arxiv.org/abs/2411.14572))
+* Yang, K., Li, H., Chu, Y., **Lin, Y.**, Peng, T. Q., & Liu, H. (2024). Unpacking Political Bias in Large Language Models: Insights Across Topic Polarization. arXiv preprint arXiv:2412.16746. ([arxiv](https://arxiv.org/abs/2412.16746))
 
-- Cui, Y., Ren, J., **Lin, Y.**, Xu, H., He, P., Xing, Y., ... & Tang, J. (2023). Ft-shield: A watermark against unauthorized fine-tuning in text-to-image diffusion models. arXiv preprint arXiv:2310.02401. ([arxiv](https://arxiv.org/abs/2310.02401))
+* Zeng, S., Zhang, J., Li, B., **Lin, Y.**, Zheng, T., Everaert, D., ... & Tang, J. (2024). Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective. arXiv preprint arXiv:2411.14572. ([arxiv](https://arxiv.org/abs/2411.14572))
+
+* Cui, Y., Ren, J., **Lin, Y.**, Xu, H., He, P., Xing, Y., ... & Tang, J. (2023). Ft-shield: A watermark against unauthorized fine-tuning in text-to-image diffusion models. arXiv preprint arXiv:2310.02401. ([arxiv](https://arxiv.org/abs/2310.02401))
 
 ## Teaching
 
