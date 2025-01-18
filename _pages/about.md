@@ -18,7 +18,9 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 ## Research Area
 
-Trustworthy AI, Natural Language Processing
+**Security in Large Language Models (LLMs)**, including the discovery of new security vulnerabilities
+associated with LLMs, the design, development, and evaluation of new LLM-focused attacks, and the
+development of robust solutions to safeguard LLMs.
 
 ## Education
 
@@ -50,6 +52,8 @@ Trustworthy AI, Natural Language Processing
 * Cui, Y., Ren, J., **Lin, Y.**, Xu, H., He, P., Xing, Y., ... & Tang, J. (2023). Ft-shield: A watermark against unauthorized fine-tuning in text-to-image diffusion models. arXiv preprint arXiv:2310.02401. ([arxiv](https://arxiv.org/abs/2310.02401))
 
 ## Teaching
+
+* Spring 2025, **Teaching Assistant**, CSE 335 Object-oriented Software Development
 
 * Fall 2024, **Teaching Assistant**, CSE 482 Big Data Analysis
 
