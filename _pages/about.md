@@ -72,4 +72,4 @@ development of robust solutions to safeguard LLMs.
 |    Time | Honors and Awards                                                        |
 | ------: | :----------------------------------------------------------------------- |
 | 12/2019 | Outstanding Student Scholarship in the academic year of 2018-2019, UESTC |
-| 12/2018 | Outstanding Student Scholarship in the academic year of 2017-2018, UESTC | --> |
+| 12/2018 | Outstanding Student Scholarship in the academic year of 2017-2018, UESTC | -->
