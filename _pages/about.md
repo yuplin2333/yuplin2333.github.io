@@ -22,6 +22,8 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 associated with LLMs, the design, development, and evaluation of new LLM-focused attacks, and the
 development of robust solutions to safeguard LLMs.
 
+**Interpretability and Explainability of Large Language Models (LLMs)**, including the investigation of their internal mechanisms and decision-making processes, the development of novel techniques to interpret model behavior and attribute predictions to specific inputs, and the ultimate goal of enhancing the transparency, trustworthiness, and reliability of these complex systems.
+
 ## Education
 
 * **Ph.D.** in Computer Science (2023-Present)
@@ -61,6 +63,17 @@ development of robust solutions to safeguard LLMs.
 * Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. [[arxiv](https://arxiv.org/abs/2505.16067)]
 * Kaiqi Yang, Hang Li, Yucheng Chu, **Yuping Lin**, Tai-Quan Peng, Hui Liu. *Unpacking Political Bias in Large Language Models: Insights Across Topic Polarization*. Preprint [[arxiv](https://arxiv.org/abs/2412.16746)]
 * **Yuping Lin**\*, Pengfei He\*, Han Xu, Yue Xing, Makoto Yamada, Hui Liu, Jiliang Tang. *Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis*. **EMNLP 2024** [[proceeding](https://aclanthology.org/2024.emnlp-main.401/)]
+
+## Internships
+
+* Summer 2025, **Research Intern**, Alibaba
+  * Worked on the research of Long-Context processing in LLM Agents.
+  * Developed an open-source MCP toolkit for LLM Agent Long-Context handling. [PyPI](https://pypi.org/project/mcp-long-context-reader/) [GitHub](https://github.com/yuplin2333/mcp-long-context-reader)
+
+## Service
+
+* Reviewer for **Computational Linguistics**, 2025
+* Reviewer for **ARR October 2025**
 
 ## Teaching
 
