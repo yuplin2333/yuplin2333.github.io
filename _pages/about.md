@@ -68,7 +68,7 @@ development of robust solutions to safeguard LLMs.
 
 * Summer 2025, **Research Intern**, Alibaba
   * Worked on the research of Long-Context processing in LLM Agents.
-  * Developed an open-source MCP toolkit for LLM Agent Long-Context handling. [PyPI](https://pypi.org/project/mcp-long-context-reader/) [GitHub](https://github.com/yuplin2333/mcp-long-context-reader)
+  * Developed an open-source MCP toolkit for LLM Agent Long-Context handling. [[PyPI](https://pypi.org/project/mcp-long-context-reader/)] [[GitHub](https://github.com/yuplin2333/mcp-long-context-reader)]
 
 ## Service
 
