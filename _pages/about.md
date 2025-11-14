@@ -37,12 +37,12 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 ## Publications and Preprints
 
-* Shenglai Zeng, Jiankun Zhang, Bingheng Li, **Yuping Lin**, Tianqi Zheng, Dante Everaert, Hanqing Lu, Hui Liu, Yue Xing, Monica Xiao Cheng, Jiliang Tang. *Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective*. **NAACL 2025** [[arxiv](https://arxiv.org/abs/2411.14572)]
+* Shenglai Zeng, Jiankun Zhang, Bingheng Li, **Yuping Lin**, Tianqi Zheng, Dante Everaert, Hanqing Lu, Hui Liu, Yue Xing, Monica Xiao Cheng, Jiliang Tang. *Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective*. NAACL 2025 [[arxiv](https://arxiv.org/abs/2411.14572)]
 * Yingqian Cui, Jie Ren, **Yuping Lin**, Han Xu, Pengfei He, Yue Xing, Lingjuan Lyu, Wenqi Fan, Hui Liu, Jiliang Tang. *FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models*. **SIGKDD Explorations Newsletter 2025** [[proceeding](https://dl.acm.org/doi/abs/10.1145/3715073.3715080)]
-* Pengfei He, **Yuping Lin**, Shen Dong, Han Xu, Yue Xing, Hui Liu. *Red-Teaming LLM Multi-Agent Systems via Communication Attacks*. Preprint [[arxiv](https://arxiv.org/abs/2502.14847)]
-* Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. [[arxiv](https://arxiv.org/abs/2505.16067)]
+* Pengfei He, **Yuping Lin**, Shen Dong, Han Xu, Yue Xing, Hui Liu. *Red-Teaming LLM Multi-Agent Systems via Communication Attacks*. ACL 2025 [[arxiv](https://arxiv.org/abs/2502.14847)]
+* Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. Preprint [[arxiv](https://arxiv.org/abs/2505.16067)]
 * Kaiqi Yang, Hang Li, Yucheng Chu, **Yuping Lin**, Tai-Quan Peng, Hui Liu. *Unpacking Political Bias in Large Language Models: Insights Across Topic Polarization*. Preprint [[arxiv](https://arxiv.org/abs/2412.16746)]
-* **Yuping Lin**\*, Pengfei He\*, Han Xu, Yue Xing, Makoto Yamada, Hui Liu, Jiliang Tang. *Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis*. **EMNLP 2024** [[proceeding](https://aclanthology.org/2024.emnlp-main.401/)]
+* **Yuping Lin**\*, Pengfei He\*, Han Xu, Yue Xing, Makoto Yamada, Hui Liu, Jiliang Tang. *Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis*. EMNLP 2024 [[proceeding](https://aclanthology.org/2024.emnlp-main.401/)]
 
 ## Internships
 
