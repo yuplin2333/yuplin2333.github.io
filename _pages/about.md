@@ -46,12 +46,16 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 ## Internships
 
+* Spring 2026, **Intern**, Hippocratic AI
+  * Worked on the research of KV Cache Management in LLMs.
 * Summer 2025, **Research Intern**, Alibaba
   * Worked on the research of Long-Context processing in LLM Agents.
   * Developed an open-source MCP toolkit for LLM Agent Long-Context handling. [[PyPI](https://pypi.org/project/mcp-long-context-reader/)] [[GitHub](https://github.com/yuplin2333/mcp-long-context-reader)]
 
 ## Service
 
+* Reviewer for **ARR January 2026**
+  * Emergency Reviewer for **ARR January 2026**
 * Reviewer for **Computational Linguistics**, 2025
 * Reviewer for **ARR October 2025**
 
