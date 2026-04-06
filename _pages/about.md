@@ -14,9 +14,9 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 ## Research Area
 
-**Security in Large Language Models (LLMs)**, including the discovery of new security vulnerabilities, the design and evaluation of LLM-focused attacks, and the development of robust defensive solutions.
+**Interpretability and Explainability of Large Language Models (LLMs)**, including the investigation of internal mechanisms and decision-making processes (such as retrieval and circuits), and enhancing the transparency, trustworthiness, and reliability of these systems.
 
-**Interpretability and Explainability of LLMs**, including the investigation of internal mechanisms and decision-making processes (such as retrieval and circuits), and enhancing the transparency, trustworthiness, and reliability of these systems.
+**Security in LLMs**, including the discovery of new security vulnerabilities, the design and evaluation of LLM-focused attacks, and the development of robust defensive solutions.
 
 **Design and Optimization of LLM-based Agents**, including the investigation of agent architectures and core capabilities (such as memory management and long-context processing), the development of novel techniques to enhance agent performance, and the creation of practical tools to improve system efficiency and scalability.
 
@@ -37,13 +37,15 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 ## Publications and Preprints
 
-* **Yuping Lin**, Zitao Li, Yue Xing, Pengfei He, Yingqian Cui, Yaliang Li, Bolin Ding, Jingren Zhou, Jiliang Tang. *Retrieval Heads are Dynamic*. Preprint [[arxiv](https://arxiv.org/abs/2602.11162)]
-* Shenglai Zeng, Jiankun Zhang, Bingheng Li, **Yuping Lin**, Tianqi Zheng, Dante Everaert, Hanqing Lu, Hui Liu, Yue Xing, Monica Xiao Cheng, Jiliang Tang. *Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective*. NAACL 2025 [[arxiv](https://arxiv.org/abs/2411.14572)]
+> \*: Equal contribution
+
+* **Yuping Lin**, Zitao Li, Yue Xing, Pengfei He, Yingqian Cui, Yaliang Li, Bolin Ding, Jingren Zhou, Jiliang Tang. *Retrieval Heads are Dynamic*. **ACL 2026** [[arxiv](https://arxiv.org/abs/2602.11162)]
+* Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. **ACL 2026** [[arxiv](https://arxiv.org/abs/2505.16067)]
+* Kaiqi Yang, Hang Li, Yucheng Chu, **Yuping Lin**, Tai-Quan Peng, Hui Liu. *Unpacking Political Bias in Large Language Models: Insights Across Topic Polarization*. **Journal of Information Technology & Politics 2026** [[arxiv](https://arxiv.org/abs/2412.16746)]
+* Shenglai Zeng, Jiankun Zhang, Bingheng Li, **Yuping Lin**, Tianqi Zheng, Dante Everaert, Hanqing Lu, Hui Liu, Yue Xing, Monica Xiao Cheng, Jiliang Tang. *Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective*. **NAACL 2025** [[arxiv](https://arxiv.org/abs/2411.14572)]
 * Yingqian Cui, Jie Ren, **Yuping Lin**, Han Xu, Pengfei He, Yue Xing, Lingjuan Lyu, Wenqi Fan, Hui Liu, Jiliang Tang. *FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models*. **SIGKDD Explorations Newsletter 2025** [[proceeding](https://dl.acm.org/doi/abs/10.1145/3715073.3715080)]
-* Pengfei He, **Yuping Lin**, Shen Dong, Han Xu, Yue Xing, Hui Liu. *Red-Teaming LLM Multi-Agent Systems via Communication Attacks*. ACL 2025 [[arxiv](https://arxiv.org/abs/2502.14847)]
-* Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. Preprint [[arxiv](https://arxiv.org/abs/2505.16067)]
-* Kaiqi Yang, Hang Li, Yucheng Chu, **Yuping Lin**, Tai-Quan Peng, Hui Liu. *Unpacking Political Bias in Large Language Models: Insights Across Topic Polarization*. Preprint [[arxiv](https://arxiv.org/abs/2412.16746)]
-* **Yuping Lin**\*, Pengfei He\*, Han Xu, Yue Xing, Makoto Yamada, Hui Liu, Jiliang Tang. *Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis*. EMNLP 2024 [[proceeding](https://aclanthology.org/2024.emnlp-main.401/)]
+* Pengfei He, **Yuping Lin**, Shen Dong, Han Xu, Yue Xing, Hui Liu. *Red-Teaming LLM Multi-Agent Systems via Communication Attacks*. **ACL 2025** [[arxiv](https://arxiv.org/abs/2502.14847)]
+* **Yuping Lin**\*, Pengfei He\*, Han Xu, Yue Xing, Makoto Yamada, Hui Liu, Jiliang Tang. *Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis*. **EMNLP 2024** [[proceeding](https://aclanthology.org/2024.emnlp-main.401/)]
 
 ## Internships
 
