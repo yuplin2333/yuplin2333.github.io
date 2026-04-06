@@ -39,13 +39,14 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 > \*: Equal contribution
 
-* **Yuping Lin**, Zitao Li, Yue Xing, Pengfei He, Yingqian Cui, Yaliang Li, Bolin Ding, Jingren Zhou, Jiliang Tang. *Retrieval Heads are Dynamic*. **ACL 2026** [[arxiv](https://arxiv.org/abs/2602.11162)]
-* Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. **ACL 2026** [[arxiv](https://arxiv.org/abs/2505.16067)]
-* Tai-Quan Peng, Kaiqi Yang, Sanguk Lee, Hang Li, Yucheng Chu, **Yuping Lin**, Hui Liu. *Beyond partisan leaning: A comparative analysis of political bias in large language models*. **Journal of Information Technology & Politics 2026** [[journal](https://www.tandfonline.com/doi/full/10.1080/19331681.2026.2646990)]
-* Shenglai Zeng, Jiankun Zhang, Bingheng Li, **Yuping Lin**, Tianqi Zheng, Dante Everaert, Hanqing Lu, Hui Liu, Yue Xing, Monica Xiao Cheng, Jiliang Tang. *Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective*. **NAACL 2025** [[conference](https://aclanthology.org/2025.naacl-long.151/)]
-* Yingqian Cui, Jie Ren, **Yuping Lin**, Han Xu, Pengfei He, Yue Xing, Lingjuan Lyu, Wenqi Fan, Hui Liu, Jiliang Tang. *FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models*. **SIGKDD Explorations Newsletter 2025** [[journal](https://dl.acm.org/doi/abs/10.1145/3715073.3715080)]
-* Pengfei He, **Yuping Lin**, Shen Dong, Han Xu, Yue Xing, Hui Liu. *Red-Teaming LLM Multi-Agent Systems via Communication Attacks*. **ACL 2025** [[conference](https://aclanthology.org/2025.findings-acl.349/)]
-* **Yuping Lin**\*, Pengfei He\*, Han Xu, Yue Xing, Makoto Yamada, Hui Liu, Jiliang Tang. *Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis*. **EMNLP 2024** [[conference](https://aclanthology.org/2024.emnlp-main.401/)]
+* **Yuping Lin**, Zitao Li, Yue Xing, Pengfei He, Yingqian Cui, Yaliang Li, Bolin Ding, Jingren Zhou, Jiliang Tang. *Retrieval Heads are Dynamic*. **ACL 2026** [[arXiv](https://arxiv.org/abs/2602.11162)]
+* Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. **ACL 2026** [[arXiv](https://arxiv.org/abs/2505.16067)]
+* Tai-Quan Peng, Kaiqi Yang, Sanguk Lee, Hang Li, Yucheng Chu, **Yuping Lin**, Hui Liu. *Beyond partisan leaning: A comparative analysis of political bias in large language models*. **Journal of Information Technology & Politics 2026** [[Paper](https://www.tandfonline.com/doi/full/10.1080/19331681.2026.2646990)][[arXiv](https://arxiv.org/abs/2412.16746)]
+* Shenglai Zeng, Jiankun Zhang, Bingheng Li, **Yuping Lin**, Tianqi Zheng, Dante Everaert, Hanqing Lu, Hui Liu, Yue Xing, Monica Xiao Cheng, Jiliang Tang. *Towards Knowledge Checking in Retrieval-augmented Generation: A Representation Perspective*. **NAACL 2025** [[Paper](https://aclanthology.org/2025.naacl-long.151/)][[arXiv](https://arxiv.org/abs/2411.14572)]
+* Yingqian Cui, Jie Ren, **Yuping Lin**, Han Xu, Pengfei He, Yue Xing, Lingjuan Lyu, Wenqi Fan, Hui Liu, Jiliang Tang. *FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models*. **SIGKDD Explorations Newsletter 2025** [[Paper](https://dl.acm.org/doi/abs/10.1145/3715073.3715080)][[arXiv](https://arxiv.org/abs/2310.02401)]
+* Pengfei He, **Yuping Lin**, Shen Dong, Han Xu, Yue Xing, Hui Liu. *Red-Teaming LLM Multi-Agent Systems via Communication Attacks*. **ACL 2025** [[Paper](https://aclanthology.org/2025.findings-acl.349/)][[arXiv](https://arxiv.org/abs/2502.14847)]
+* **Yuping Lin**\*, Pengfei He\*, Han Xu, Yue Xing, Makoto Yamada, Hui Liu, Jiliang Tang. *Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis*. **EMNLP 2024** [[Paper](https://aclanthology.org/2024.emnlp-main.401/)][[arXiv](https://arxiv.org/abs/2406.10794)]
+<!-- [[Code](https://github.com/yuplin2333/representation-space-jailbreak)] -->
 
 ## Internships
 
