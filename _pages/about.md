@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computer Science PhD student at [the DSE Lab](https://dse.cse.msu.edu/) of Michigan State University, advised by [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/).
+I'm a Computer Science PhD student at [the DSE Lab](https://dse.cse.msu.edu/) of Michigan State University, co-advised by [Prof. Jiliang Tang](https://www.cse.msu.edu/~tangjili/) and [Prof. Yue Xing](https://sites.google.com/site/xingyuecuhk/).
 
 If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[#dot#\] edu.
 
