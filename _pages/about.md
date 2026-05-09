@@ -14,7 +14,7 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 ## Research Area
 
-**Interpretability and Explainability of Large Language Models (LLMs)**, including the investigation of internal mechanisms and decision-making processes (such as retrieval and circuits), and enhancing the transparency, trustworthiness, and reliability of these systems.
+**Interpretability of Large Language Models (LLMs)**, including the investigation of internal mechanisms and decision-making processes (such as retrieval and circuits), and enhancing the transparency, trustworthiness, and reliability of these systems.
 
 **Security in LLMs**, including the discovery of new security vulnerabilities, the design and evaluation of LLM-focused attacks, and the development of robust defensive solutions.
 
@@ -39,6 +39,7 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 > \*: Equal contribution
 
+* **Yuping Lin**, Pengfei He, Yue Xing, Yingqian Cui, Jiayuan Ding, Subhabrata Mukherjee, Hui Liu, Zhen Xiang. *Crafting Reversible SFT Behaviors in Large Language Models*. **Preprint** [[arXiv](https://arxiv.org/abs/2605.06632)]
 * **Yuping Lin**, Zitao Li, Yue Xing, Pengfei He, Yingqian Cui, Yaliang Li, Bolin Ding, Jingren Zhou, Jiliang Tang. *Retrieval Heads are Dynamic*. **ACL 2026** [[arXiv](https://arxiv.org/abs/2602.11162)]
 * Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. **ACL 2026** [[arXiv](https://arxiv.org/abs/2505.16067)]
 * Tai-Quan Peng, Kaiqi Yang, Sanguk Lee, Hang Li, Yucheng Chu, **Yuping Lin**, Hui Liu. *Beyond partisan leaning: A comparative analysis of political bias in large language models*. **Journal of Information Technology & Politics 2026** [[Paper](https://www.tandfonline.com/doi/full/10.1080/19331681.2026.2646990)][[arXiv](https://arxiv.org/abs/2412.16746)]
