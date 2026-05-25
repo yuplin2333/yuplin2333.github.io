@@ -38,7 +38,7 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 ## Publications and Preprints
 
 > \*: Equal contribution
-
+* **Yuping Lin**, Jiayuan Ding, Yue Xing, Pengfei He, Jiliang Tang, Subhabrata Mukherjee. *A Simple Plug-in for Improving Eviction-Based KV Cache Compression*. **Preprint** [[arXiv](https://arxiv.org/abs/2605.23258)]
 * **Yuping Lin**, Pengfei He, Yue Xing, Yingqian Cui, Jiayuan Ding, Subhabrata Mukherjee, Hui Liu, Zhen Xiang. *Crafting Reversible SFT Behaviors in Large Language Models*. **Preprint** [[arXiv](https://arxiv.org/abs/2605.06632)]
 * **Yuping Lin**, Zitao Li, Yue Xing, Pengfei He, Yingqian Cui, Yaliang Li, Bolin Ding, Jingren Zhou, Jiliang Tang. *Retrieval Heads are Dynamic*. **ACL 2026** [[arXiv](https://arxiv.org/abs/2602.11162)]
 * Zidi Xiong\*, **Yuping Lin**\*, Wenya Xie\*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang. *Towards Optimal Memory Management: Investigating Experience-Following Behavior of Large Language Model Agents*. **ACL 2026** [[arXiv](https://arxiv.org/abs/2505.16067)]
