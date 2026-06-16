@@ -14,11 +14,13 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 ## Research Area
 
-**Interpretability of Large Language Models (LLMs)**, including the investigation of internal mechanisms and decision-making processes (such as retrieval and circuits), and enhancing the transparency, trustworthiness, and reliability of these systems.
+My research centers on understanding how large language models, and LLM-based agents built on top of them, actually behave internally, and on using that understanding to make them more transparent, safer, and more efficient.
 
-**Security in LLMs**, including the discovery of new security vulnerabilities, the design and evaluation of LLM-focused attacks, and the development of robust defensive solutions.
+**Interpretability of Large Language Models (LLMs)**: investigating the internal mechanisms underlying specific model behaviors, such as the dynamics of retrieval heads, structural patterns within attention representations, and how fine-tuning reshapes model behavior at the circuit level.
 
-**Design and Optimization of LLM-based Agents**, including the investigation of agent architectures and core capabilities (such as memory management and long-context processing), the development of novel techniques to enhance agent performance, and the creation of practical tools to improve system efficiency and scalability.
+**Safety in LLMs**: applying this mechanistic understanding to safety problems, such as explaining why certain jailbreak attacks succeed, and developing methods to monitor, control, or selectively reverse safety-relevant behaviors.
+
+**Design and Optimization of LLM-based Agents**: extending this understanding to agentic systems, such as characterizing how core capabilities like memory management shape agent behavior over time, and building techniques to improve agent reliability and efficiency.
 
 ## Education
 
@@ -62,6 +64,7 @@ If you'd like to get in touch, feel free to email me at linyupin \[#at#\] msu \[
 
 ## Service
 
+* Reviewer for **ARR May 2026**
 * Reviewer for **NeurIPS 2026**
 * Reviewer for **ICML 2026 Workshop on Mech Interp**
 * Reviewer for **ARR January 2026**
