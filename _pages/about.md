@@ -26,13 +26,13 @@ My research centers on understanding how large language models, and LLM-based ag
 
 * **Ph.D.** in Computer Science (2023-Present)
   * Michigan State University (MSU)
-  * **Advisor**: [Professor Jiliang Tang](https://www.cse.msu.edu/~tangjili/)
-  * **Research Area**: Safety in Large Language Models, Trustworthy AI, Natural Language Processing
+  * **Advisor**: [Professor Jiliang Tang](https://www.cse.msu.edu/~tangjili/), [Professor Yue Xing](https://sites.google.com/site/xingyuecuhk/)
+  * **Research Area**: Trustworthy AI
 
 * **M.S.** in Electronic and Computer Engineering (2022-2023)
   * University of Massachusetts, Amherst (UMass Amherst)
   * **Advisor**: [Professor Tongping Liu](https://people.umass.edu/tongping/index.html)
-  * **Research Area**: Machine Learning Model Compression
+  * **Research Area**: Machine Learning System
 
 * **B.Eng.** in Information Security (2017-2021)
   * University of Electronic and Science Technology of China (UESTC)
