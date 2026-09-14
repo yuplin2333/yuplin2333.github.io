@@ -61,6 +61,7 @@ My research centers on understanding how large language models, and LLM-based ag
 ## Internships
 
 * Summer 2026, **Applied Scientist Intern**, Amazon
+  * Worked on the research of a causal diagnosis framework for Agent failure attribution.
 * Spring 2026, **Intern**, Hippocratic AI
   * Worked on the research of KV Cache Management in LLMs.
   * Worked on the development of a hybrid agentic RAG system.
@@ -70,6 +71,7 @@ My research centers on understanding how large language models, and LLM-based ag
 
 ## Service
 
+* Reviewer for **ARR Aug 2026**
 * Reviewer for **ARR May 2026**
 * Reviewer for **NeurIPS 2026**
 * Reviewer for **ICML 2026 Workshop on Mech Interp**
