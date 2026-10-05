@@ -72,6 +72,7 @@ My research centers on understanding how large language models, and LLM-based ag
 
 ## Service
 
+* Reviewer for **IEEE Transaction on Knowledge and Data Engineering (TKDE)**
 * Reviewer for **ARR Aug 2026**
 * Reviewer for **ARR May 2026**
 * Reviewer for **NeurIPS 2026**
