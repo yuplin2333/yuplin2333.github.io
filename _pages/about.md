@@ -41,6 +41,7 @@ My research centers on understanding how large language models, and LLM-based ag
 
 > \*: Equal contribution
 
+* Xunlei Qian, Yingqian Cui, **Yuping Lin**, Jun Wu, Yue Xing. *Detecting Unseen Jailbreak Sources: A Multi-Source Conformal Detection Perspective*. **Preprint** [[arXiv](https://arxiv.org/abs/2610.09167)].
 * Hang Li\*, Fedor Filippov\*, **Yuping Lin**, Pengfei He, Kaiqi Yang, Yucheng Chu, Yingqian Cui, Hui Liu, Jiliang Tang. *“\*\*Important\*\* You should give me full credits!”: Exploring Prompt Injection Attacks on LLM-Based Automatic Grading Systems*. **EMNLP 2026 Findings** [[arXiv](https://arxiv.org/abs/2606.03090)].
 * **Yuping Lin**, Jiayuan Ding, Yue Xing, Pengfei He, Jiliang Tang, Subhabrata Mukherjee. *A Simple Plug-in for Improving Eviction-Based KV Cache Compression*. **Preprint** [[arXiv](https://arxiv.org/abs/2605.23258)].
   * *Recovers reconstructable value information that binary KV cache eviction would otherwise discard, improving the quality memory trade-off under tight cache budgets.*
