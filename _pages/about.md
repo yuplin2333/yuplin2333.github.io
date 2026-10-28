@@ -60,6 +60,10 @@ My research centers on understanding how large language models, and LLM-based ag
   * *A representation space analysis showing that successful jailbreaks shift the representation of harmful prompts toward the region occupied by harmless ones.*
 <!-- [[Code](https://github.com/yuplin2333/representation-space-jailbreak)] -->
 
+## Talks
+
+* *Actionable Interpretability: Attribution and Control in LLMs and LLM Agents*, CSCI 8000 (Lecturer: Dr. Zhen Xiang), University of Georgia [[Keynote](/files/talk-uga-20261028.pdf)]
+
 ## Internships
 
 * Summer 2026, **Applied Scientist Intern**, Amazon
