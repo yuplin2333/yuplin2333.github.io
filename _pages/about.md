@@ -62,7 +62,7 @@ My research centers on understanding how large language models, and LLM-based ag
 
 ## Talks
 
-* *Actionable Interpretability: Attribution and Control in LLMs and LLM Agents*, CSCI 8000 (Lecturer: Dr. Zhen Xiang), University of Georgia [[Keynote](/files/talk-uga-20261028.pdf)]
+* *Actionable Interpretability: Attribution and Control in LLMs and LLM Agents*, Oct 28, 2026. CSCI 8000 (Lecturer: Dr. Zhen Xiang), University of Georgia [[Keynote](/files/talk-uga-20261028.pdf)]
 
 ## Internships
 
